@@ -4,3 +4,5 @@ Created repository to work through C++ projects in Intro book. Feel free to cont
 working on and offer positive advice and criticism.
 
 * [Sales & Commission](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/sales%26commission)
+* [How To Say I Love You](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/howtosayiloveyou)
+* 
