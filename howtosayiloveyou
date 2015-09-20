@@ -40,6 +40,11 @@ int main()
     {
         cout <<"我爱你";
     }
+    else if (language == "Swedish" || language == "swedish")
+    {
+        cout <<"jag älskar dig";
+    }
+
     if (language == "English" || language =="english")
     {
         cout <<"You already know how to say that";
