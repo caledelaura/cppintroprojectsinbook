@@ -6,3 +6,4 @@ free to contribute any intro projects you are currently working on and offer pos
 * [Sales & Commission](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/sales%26commission)
 * [How To Say I Love You](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/howtosayiloveyou)
 * [Sales Calculator Do While](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/salescalculatordowhile)
+* [About Me Quiz](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/aboutmequiz)
