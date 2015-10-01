@@ -6,7 +6,7 @@ string name;
 string age;
 string color;
 string holiday;
-
+string food;
 
 
 int main()
@@ -19,6 +19,8 @@ int main()
     getline(cin, color);
     cout << "What is your favorite holiday?\n";
     getline (cin, holiday);
+    cout << "What is your favorite food?\n";
+    getline (cin, food);
     
     
     cout << "Hello " + name + "." + " You are " + age + " and your favorite color is " + color + "." + " I bet you are so excited for " + holiday + ".";
