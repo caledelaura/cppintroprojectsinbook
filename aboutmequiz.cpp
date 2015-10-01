@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 string name;
@@ -7,7 +6,9 @@ string age;
 string color;
 string holiday;
 string food;
-string book;
+string animal;
+string country;
+string movie;
 
 int main()
 {
@@ -21,10 +22,14 @@ int main()
     getline (cin, holiday);
     cout << "What is your favorite food?\n";
     getline (cin, food);
-    cout << "What is your favorite book?\n";
-    getline (cin, book);
+    cout << "What animal do you like?\n";
+    getline (cin, animal);
+    cout << "What country would you like to visit?\n";
+    getline (cin, country);
+    cout << "What is your favorite movie?\n";
+    getline (cin, movie);
     
-    cout << "Hello " + name + "." + " You are " + age + " and your favorite color is " + color + "." + " I bet you are so excited for " + holiday + "." + " Enjoy reading " + book + ".";
+    cout << "Hello " + name + "." + " You are " + age + " and your favorite color is " + color + "." + " You enjoy " + food + "." + " You would like to own " + animal + "." + " I think you would like to visit " + country + " and you would like to see " + movie + "." + " I bet you are so excited for " + holiday + ".";
     
     return 0;
 }
