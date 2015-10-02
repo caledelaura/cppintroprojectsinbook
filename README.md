@@ -7,3 +7,4 @@ free to contribute any intro projects you are currently working on and offer pos
 * [How To Say I Love You](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/howtosayiloveyou.cpp)
 * [Sales Calculator Do While](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/salescalculatordowhile.cpp)
 * [About Me Quiz](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/aboutmequiz.cpp)
+* [Color Of Your Personality](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/colorofyourupersonality.cpp)
