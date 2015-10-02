@@ -9,6 +9,7 @@ string food;
 string animal;
 string country;
 string movie;
+string game;
 
 int main()
 {
