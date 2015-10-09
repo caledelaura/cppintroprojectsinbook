@@ -34,7 +34,7 @@ int main()
     }
     else if (language == "French" || language == "french")
     {
-        cout <<"je t'aime";
+        cout <<"je t'adore";
     }
     else if (language == "Chinese" || language =="chinese")
     {
