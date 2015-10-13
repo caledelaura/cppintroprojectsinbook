@@ -39,6 +39,10 @@ int main()
     {
         cout <<name + ", You're pretty basic";
     }
+    if (color =="gray" || color =="gray")
+    {
+        cout <<name + ", You're a dull person";
+    }
     else if (color == "")
     {
         cout<< "INVALID ENTRY";
