@@ -11,6 +11,9 @@ string country;
 string movie;
 string game;
 string movieGenre;
+string os;
+string candy;
+string yes;
 
 int main()
 {
@@ -34,8 +37,15 @@ int main()
     getline (cin, game);
     cout << "What is your favorite movie genre?" << endl;
     getline (cin, movieGenre);
+    cout << "Do you like Windows or Apple or Linux?" << endl;
+    getline (cin, os);
+    cout << "What is your favorite candy bar?" << endl;
+    getline (cin, candy);
     
     cout << "Hello " + name + "." + " You are " + age + " and your favorite color is " + color + "." + " You enjoy " + food + "." + " You would like to own a " + animal + "." + " I think you would like to visit " + country + " and you would like to see " + movie + "." + " I bet you are so excited for " + holiday + "." + " Lets play " + game + "." << endl;
-    cout << "Your favorite movie genre is " + movieGenre + "." << endl;
+    cout << "Your favorite movie genre is " + movieGenre + "." + " You would like to have your computer run " + os + "." << endl;
+    cout << " Would you like me to buy you a " + candy + "?" << endl;
+    getline (cin, yes);
+    cout << "Sorry I am only a program and can not get you a " + candy + ". :(" << endl;
     return 0;
 }
