@@ -7,9 +7,9 @@ string color;
 int main()
 {
     cout << "Input your name:\n";
-    getline (cin, name);
+    cin >> name;
     cout << "What is your favorite color? ";
-    getline (cin, color);
+    cin >> color;
     
     if (color =="yellow" || color =="Yellow")
     {
@@ -42,6 +42,10 @@ int main()
     if (color =="Indigo" || color =="indigo")
     {
         cout <<name + ", you're a very mysterious and unique person.";
+    }
+    if (color =="gray" || color =="gray")
+    {
+        cout <<name + ", You're a dull person";
     }
     else if (color == "")
     {
