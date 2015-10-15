@@ -8,3 +8,4 @@ free to contribute any intro projects you are currently working on and offer pos
 * [Sales Calculator Do While](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/salescalculatordowhile.cpp)
 * [About Me Quiz](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/aboutmequiz.cpp)
 * [Color Of Your Personality](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/colorofyourupersonality.cpp)
+* [Pieces of Pizza](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/piecesofpizza.cpp) 
