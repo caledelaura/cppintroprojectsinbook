@@ -49,7 +49,7 @@ int main()
     }
     if (color =="Pink" || color =="pink")
     {
-        cout <<name + ", You're have a very flashy personality."
+        cout <<name + ", You have a very flashy personality."
     }
     else if (color == "")
     {
