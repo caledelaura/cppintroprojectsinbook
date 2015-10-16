@@ -47,6 +47,10 @@ int main()
     {
         cout <<name + ", You're a dull person";
     }
+    if (color =="Pink" || color =="pink")
+    {
+        cout <<name + ", You're have a very flashy personality."
+    }
     else if (color == "")
     {
         cout<< "INVALID ENTRY";
