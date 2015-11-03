@@ -10,6 +10,6 @@ free to contribute any intro projects you are currently working on and offer pos
 * [Color Of Your Personality](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/colorofyourupersonality.cpp)
 * [Pieces of Pizza](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/piecesofpizza.cpp) 
 * [Concert Seats](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/concertseats.cpp)
-* [Wade's Pieces of Pizza Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/WadeRawlinsonPiecesOfPizza)
+* [Wade's Pieces of Pizza Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/WadeRawlinsonPiecesOfPizza.cpp)
 * [Jonathan's Pieces of Pizza Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/JonathanPiecesOfPizza.cpp)
 * [Jonathan's Sales & Commission Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/JonathanSales%26Commission.cpp)
