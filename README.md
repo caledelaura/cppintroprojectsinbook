@@ -11,4 +11,4 @@ free to contribute any intro projects you are currently working on and offer pos
 * [Pieces of Pizza](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/piecesofpizza.cpp) 
 * [Concert Seats](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/concertseats.cpp)
 * [Wade's Pieces of Pizza Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/WadeRawlinsonPiecesOfPizza)
-* 
+* [Jonathan's Pieces of Pizza Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/JonathanPiecesOfPizza.cpp)
