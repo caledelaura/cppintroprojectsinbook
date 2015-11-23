@@ -15,3 +15,4 @@ free to contribute any intro projects you are currently working on and offer pos
 * [Jonathan's Sales & Commission Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/JonathanSales%26Commission.cpp)
 * [Water Bill Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/costofwatercalculator.cpp)
 * [Bucket List](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/bucketlist.cpp)
+* [Commission Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/commission%20calculator.cpp)
