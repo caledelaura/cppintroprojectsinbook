@@ -17,3 +17,5 @@ free to contribute any intro projects you are currently working on and offer pos
 * [Bucket List](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/bucketlist.cpp)
 * [Commission Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/commission%20calculator.cpp)
 * [Calorie Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/caloriecalculator.cpp)
+* [Fibonacci While Loop](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/fibonacciwhile.cpp) 
+* [Fibonacci For Loop](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/fibonaccifor.cpp)
