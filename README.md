@@ -19,3 +19,4 @@ free to contribute any intro projects you are currently working on and offer pos
 * [Calorie Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/caloriecalculator.cpp)
 * [Fibonacci While Loop](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/fibonacciwhile.cpp) 
 * [Fibonacci For Loop](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/fibonaccifor.cpp)
+* [Simple For Loop](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/simpeforloop.cpp) 
