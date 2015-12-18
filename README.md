@@ -21,3 +21,4 @@ free to contribute any intro projects you are currently working on and offer pos
 * [Fibonacci For Loop](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/fibonaccifor.cpp)
 * [Simple For Loop](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/simpeforloop.cpp) 
 * [Times Table](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/timestable.cpp)
+* [Yearly Salary Increase](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/yearlysalaryincrease.cpp)
