@@ -23,3 +23,4 @@ free to contribute any intro projects you are currently working on and offer pos
 * [Times Table](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/timestable.cpp)
 * [Yearly Salary Increase](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/yearlysalaryincrease.cpp)
 * [Void Function Average Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/averagecalculatorvoidfunc.cpp)
+* [Taxed Paycheck Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/taxedpaycheckcalc.cpp)
