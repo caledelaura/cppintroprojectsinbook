@@ -32,8 +32,8 @@ int main()
     getline (cin, movie);
     cout << "What is your favorite table top game?\n";
     getline (cin, game);
-    cout << "What is your favorite movie genre?" << endl;
-    getline (cin, movieGenre);
+    //cout << "What is your favorite movie genre?" << endl;
+    //getline (cin, movieGenre);
     
     cout << "Hello " + name + "." + " You are " + age + " and your favorite color is " + color + "." + " You enjoy " + food + "." + " You would like to own a " + animal + "." + " I think you would like to visit " + country + " and you would like to see " + movie + "." + " I bet you are so excited for " + holiday + "." + " Lets play " + game + "." << endl;
     cout << "Your favorite movie genre is " + movieGenre + "." << endl;
