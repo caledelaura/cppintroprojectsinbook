@@ -25,3 +25,4 @@ free to contribute any intro projects you are currently working on and offer pos
 * [Void Function Average Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/averagecalculatorvoidfunc.cpp)
 * [Taxed Paycheck Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/taxedpaycheckcalc.cpp)
 * [Average 7 Day Temperature Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/averagetemperature7days.cpp)
+* [Sales, Bonus, Total Calculator](https://github.com/caledelaura/cppintroprojectsinbook/blob/master/salesbonustotalcalc.cpp)
